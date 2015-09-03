@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>J�rgeni koduleht</title>
+    <title>Jürgen Hallast</title>
 </head>
 <body>
     <h1 style="color:navy ; text-align:center">Jürgen Hallast</div>
