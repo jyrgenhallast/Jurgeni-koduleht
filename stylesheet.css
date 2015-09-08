@@ -1,0 +1,12 @@
+h1 {
+    color: #071844;
+    text-align: center;
+}
+div table, th, td {
+    border: #071844 2px solid;
+    background-color: #FFFFFF;
+    color: #ff980b;
+    border-collapse: collapse;
+    margin: -195px auto;
+    font-size: 30px;
+}
