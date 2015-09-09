@@ -22,7 +22,6 @@
                     <td>Tartus</td>
                 </tr>
                 <tr>
-                    <!--koolid-->
                     <td>Varasemad õpingud</td>
                     <td>Tartu Kommertsgümnaasium, EMÜ, Tartu KHK</td>
                 </tr>
