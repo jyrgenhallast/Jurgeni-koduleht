@@ -3,30 +3,30 @@ h1 {
     color: #071844;
     text-align: center;
     font-weight: bold;
-    text-shadow: 1px 1px #2fa10e;
+    text-shadow: 1px 1px #fffa0e;
     text-decoration: underline;
 }
-div table, th, td {
+div.fixed table, th, td {
     border: #071844 2px solid;
     border-radius: 6px;
     background-color: #FFFFFF;
     color: #ff980b;
     border-collapse: collapse;
-    margin: -195px auto;
+    margin: auto;
     font-size: 30px;
+    position: static;
+    top: 10px;
+    left: 10px;
 }
-div p {
-    padding: 190px;
-    padding-left: 75px;
-    color: #071844;
+p {
+    color: #2fa10e;
     font-size: 20px;
     font-weight: bold;
     vertical-align: text-top;
-    text-shadow: 1px 1px #2fa10e;
+    text-shadow: 1px 1px yellow;
 }
-div table {
+div.static table {
     border: #000000 1px solid;
-    background-color: #d100bb;
     padding: 100px;
 }
 div td img {
